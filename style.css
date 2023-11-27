@@ -2,7 +2,7 @@ body::before{
     display: block;
     content: '';
     height: 60px;
-
+    background: #ececec;
 }
 @media(min-width:768px){
     .news-input{
